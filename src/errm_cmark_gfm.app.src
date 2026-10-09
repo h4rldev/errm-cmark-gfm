@@ -1,0 +1,13 @@
+{application, errm_cmark_gfm, [
+    {description, "Errm... cmark-gfm! - an erlang library exposing GitHub Flavored Markdown parsing and rendering to HTML."},
+    {vsn, "0.1.0"},
+    {registered, []},
+    {applications, [
+        kernel,
+        stdlib
+    ]},
+    {env, []},
+    {modules, []},
+    {licenses, ["BSD-3"]},
+    {links, [{"Codeberg", "https://codeberg.org/h4rl/errm-cmark-gfm"}]}
+ ]}.

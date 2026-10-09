@@ -1,0 +1,12 @@
+.cache
+.direnv
+_build
+_checkouts
+result
+priv
+*.beam
+*.txt
+*.log
+*.dump
+*.crashdump
+compile_commands.json
